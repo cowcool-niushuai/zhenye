@@ -62,7 +62,7 @@ xattr -cr /Applications/Zhenye.app
 需要 Godot **4.7.1** 或兼容的 Godot 4 版本。
 
 ```sh
-git clone https://github.com/whitejettglenndesmond610-alt/zhenye.git
+git clone https://github.com/cowcool-niushuai/zhenye.git
 cd zhenye
 godot --path . 
 ```
