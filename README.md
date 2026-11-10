@@ -2,9 +2,11 @@
 
 **使用 Godot 4 开发的 PC 单机东方志怪俯视角幸存者 Roguelite。**
 
+[![Headless tests](https://github.com/cowcool-niushuai/zhenye/actions/workflows/tests.yml/badge.svg)](https://github.com/cowcool-niushuai/zhenye/actions/workflows/tests.yml)
+
 收集十八种法器，凑齐联动，搭配装备与道行命盘，在五大章节和无尽轮回中迎战邪祟与多阶段首领。
 
-[**下载最新版本**](../../releases/latest) · [玩法特色](#玩法特色) · [操作方式](#操作方式) · [从源码运行](#从源码运行)
+[**下载最新版本**](https://github.com/cowcool-niushuai/zhenye/releases/latest) · [玩法特色](#玩法特色) · [操作方式](#操作方式) · [从源码运行](#从源码运行)
 
 ![镇夜录战斗画面](docs/screenshots/battle.png)
 
@@ -115,4 +117,4 @@ docs/screenshots/            README 截图
 
 ## 开发状态
 
-v0.1.0-alpha 已完成五章、无尽模式与完整局外循环，正在收集试玩反馈并调整数值、界面与操作手感。问题与建议欢迎提交 [Issue](../../issues)。
+v0.1.0-alpha 已完成五章、无尽模式与完整局外循环，正在收集试玩反馈并调整数值、界面与操作手感。问题与建议欢迎提交 [Issue](https://github.com/cowcool-niushuai/zhenye/issues)。
